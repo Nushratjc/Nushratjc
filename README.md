@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nushratjc
- 
-- 🌱 I’m currently learning Git
+
 
 
 

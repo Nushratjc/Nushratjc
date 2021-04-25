@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nushratjc
+- 👋 Hi, I’m Nushrat
 
 
 
